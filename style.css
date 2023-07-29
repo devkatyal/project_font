@@ -1,0 +1,30 @@
+.heading{
+    font-size: 23px;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    width: 100%;
+    margin: 0px;
+    animation-name: font;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+.note{
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#footer{
+    position: fixed;
+    background-color: darkorchid;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    color: beige;
+}
+
+canvas{
+    border: 3px white solid;   
+}
+
